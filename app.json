@@ -1,0 +1,17 @@
+{
+  "name": "hirror",
+  "description": "Build temporary mirror sites on heroku.",
+  "keywords": [
+    "mirror",
+    "heroku"
+  ],
+  "website": "https://github.com/Gerhut/hirror#readme",
+  "repository": "https://github.com/Gerhut/hirror.git",
+  "success_url": "/",
+  "env": {
+    "TARGET": {
+      "description": "Target site.",
+      "value": "https://google.com"
+    }
+  }
+}

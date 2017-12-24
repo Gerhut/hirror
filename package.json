@@ -1,0 +1,32 @@
+{
+  "name": "hirror",
+  "version": "1.0.0",
+  "description": "Build temporary mirror sites on heroku.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerhut/hirror.git"
+  },
+  "keywords": [
+    "mirror",
+    "heroku"
+  ],
+  "author": "George Chung <Gerhut@GMail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/Gerhut/hirror/issues"
+  },
+  "homepage": "https://github.com/Gerhut/hirror#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "debug": "^3.1.0",
+    "dotenv": "^4.0.0",
+    "koa": "^2.4.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
