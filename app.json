@@ -11,7 +11,7 @@
   "env": {
     "TARGET": {
       "description": "Target site.",
-      "value": "https://google.com"
+      "value": "https://www.google.com"
     }
   }
 }
