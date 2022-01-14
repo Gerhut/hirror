@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Gerhut/hirror#readme",
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "debug": "^3.1.0",
     "dotenv": "^4.0.0",
     "koa": "^2.4.1"
